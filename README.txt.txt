@@ -1,0 +1,1 @@
+MongoDB is installed in Program Files. Installed with Admin rights.
